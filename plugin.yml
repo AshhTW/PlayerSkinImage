@@ -1,0 +1,6 @@
+name: PlayerSkinImage
+version: 1.0.0
+author: AshhTW
+main: playerskinimage\PlayerSkinImage
+api: 5.0.0
+description: a simple plugin to save player skin and head images
